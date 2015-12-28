@@ -1,5 +1,6 @@
+cluster.name: elasticsearch.docker
+node.name: docker
 path:
   data: /data/data
-  logs: /data/log
-  plugins: /data/plugins
   work: /data/work
+  logs: /data/logs
